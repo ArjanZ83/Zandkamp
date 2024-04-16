@@ -1,0 +1,220 @@
+@import url(https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap);
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Roboto";
+}
+
+p {
+    font-weight: 350;
+
+}
+
+body {
+    
+    background: #ADA996;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 18px 98px;
+    background: rgb(21, 21, 116);;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+}
+
+.logo {
+    margin-left: 100px;
+}
+.navbar a {
+    font-size: 25px;
+    color: #fff;
+    font-weight: 500;
+    text-decoration: none;
+    margin-left: 40px;
+}
+
+.mainwelkom {
+    height: 1400px;
+    
+    text-align: center;
+    
+   
+
+}
+
+.kampeergebouw {
+    display: inline-block;
+    margin-top: 140px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    height: 30%;
+    width: 45%;
+    border-radius: 5px;
+}
+
+.welkom {
+    margin-bottom: 10px;
+}
+
+.imgwelkom {
+    display: inline-block;
+    height: 150px;
+    width: 150px;
+    padding: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border-radius: 10px;
+}
+
+.p1welkom {
+    font-size: 25px;
+    font-weight: 350;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+ .linkover {
+    font-size: 29px;
+    color: #fff;
+    font-weight: 700;
+    text-decoration: none;
+    background-color: rgb(21, 21, 116);
+    
+ }
+
+.footer {
+    height: 22px;
+    background-color: rgb(21, 21, 116);
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    
+}
+
+.footer p {
+    color: #fff;
+    text-align: center;
+    
+    
+
+}
+
+.mainover {
+    height: 1900px;
+    
+    font-size: 25px;
+    text-align: center;
+    margin-top: 117px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    
+
+}
+
+.info {
+    display: inline-block;
+    text-align: center;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 20px;
+}
+
+.zandkampvoorkant {
+    display: inline;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+}
+.container {
+    display: flexbox;
+    margin: 50px;
+}
+
+.container img {
+    width: 325px;
+    height: 425px;
+}
+
+.linkhuisregels {
+    text-decoration: none;
+    color: #fff;
+}
+
+.mainhuisregels {
+    height: 935px;
+    margin-top: 160px;
+    margin-bottom: 100px;
+    margin-left: 400px;
+    font-size: large;
+    background-color: y;
+    
+}
+
+.mainhuisregels h1 {
+    margin-bottom: 50px;
+    
+}
+
+.maincontact {
+    height: 1200px;
+    margin-top: 117px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-size: large;
+    background-color: #fff;
+    text-align: center;
+    background: #ADA996;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.maps{
+    margin-top: 25px;
+}
+
+h1, h2 {
+    color: rgb(81, 81, 95);
+}
+
+img {
+    border: 1px grey solid;
+}
+
+.mainwiezijnwij{
+    height: 935px;
+    margin-top: 150px;
+    margin-bottom: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 600px;
+    font-size: large;
+    background-color: #fff;
+    text-align: center;
+}
+
+.imgarendensophie {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.mainwiezijnwij p {
+    margin-left: 250px;
+    margin-right: 250px;
+
+}
